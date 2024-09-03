@@ -15,12 +15,7 @@ threats by 20%. Seeking to apply technical skills within a dynamic team to enhan
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Tool Development on Azure 2024        | <a href="https://portal.azure.com/?Microsoft_Azure_Education_correlationId=e35f76fe-5e12-4913-ba8a-ab46ed48037d&Microsoft_Azure_Education_newA4E=true&Microsoft_Azure_Education_asoSubGuid=1104bd30-b498-4781-b411-9f128ff9da44#home">SIEM Lab</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
