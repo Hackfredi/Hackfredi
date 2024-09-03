@@ -2,14 +2,13 @@
 # Hello, I'm CHANGEME
 <a href="https://linkedin.com/in/devang-bisht-256519201"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a recent student with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+A certified cybersecurity professional with expertise in SOC analysis, vulnerability management, and
+incident response. Proficient in Python, Linux, Bash, and MySQL, with a proven ability to reduce potential
+threats by 20%. Seeking to apply technical skills within a dynamic team to enhance security protocols and specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
