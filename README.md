@@ -2,7 +2,7 @@
 # Hello, I'm Devang
 <a href="https://linkedin.com/in/devang-bisht-256519201"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<a<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1514656" style='border:none;'></iframe>/> </a>
+<a <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1514656" style='border:none;'></iframe> /></a>
 
 I am a recent student with a profound interest in technology and a dedication to solving complex problems.
 
